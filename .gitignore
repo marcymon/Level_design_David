@@ -62,3 +62,7 @@ crashlytics-build.properties
 .idea
 Assets/Plugins/Editor/JetBrains
 Assets/Plugins/Editor/JetBrains.meta
+Assets/Scenes/Main.unity
+ProjectSettings/Packages/com.unity.progrids/Settings.json
+Assets/Scenes/Main.unity
+Assets/Scenes/Main.unity
