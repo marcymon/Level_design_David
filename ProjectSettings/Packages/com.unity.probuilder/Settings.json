@@ -161,7 +161,7 @@
             {
                 "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ExtrudeFaces.distance",
-                "value": "{\"m_Value\":13.199999809265137}"
+                "value": "{\"m_Value\":2.200000047683716}"
             },
             {
                 "type": "UnityEngine.ProBuilder.ExtrudeMethod, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
