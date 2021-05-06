@@ -1431,6 +1431,11 @@ PrefabInstance:
       propertyPath: lookAt
       value: 
       objectReference: {fileID: 447740982}
+    - target: {fileID: 114290708936933726, guid: 1fac0dae54de3224181696b709bb4d66,
+        type: 3}
+      propertyPath: keyboardAndMouseInvertSettings.invertX
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 114761749801698018, guid: 1fac0dae54de3224181696b709bb4d66,
         type: 3}
       propertyPath: m_XAxis.m_MaxSpeed
