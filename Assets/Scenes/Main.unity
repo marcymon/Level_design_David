@@ -921,7 +921,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4035643436854338, guid: 9d620787554a948e3876fe7dbdba24e8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 9.01
+      value: 20.93
       objectReference: {fileID: 0}
     - target: {fileID: 4035643436854338, guid: 9d620787554a948e3876fe7dbdba24e8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1431,6 +1431,11 @@ PrefabInstance:
       propertyPath: lookAt
       value: 
       objectReference: {fileID: 447740982}
+    - target: {fileID: 114290708936933726, guid: 1fac0dae54de3224181696b709bb4d66,
+        type: 3}
+      propertyPath: keyboardAndMouseInvertSettings.invertX
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 114761749801698018, guid: 1fac0dae54de3224181696b709bb4d66,
         type: 3}
       propertyPath: m_XAxis.m_MaxSpeed
